@@ -12,6 +12,6 @@ The second test was conducted under sunlight conditions without ROI, and while i
 
 ## TESTING PHASE 3
 The final test was conducted under room lighting conditions and involved the implementation of the ROI. This new implementation significantly improved the accuracy of color detection within a specified area. If the color detected is not defined in the color library, the camera assigns colors that are similar to it based on their RGB values. As shown in the image below, we have a lilac/lavender keyboard slip, which is not defined in our color library, the code looks for colors like lilac/lavender and assigns them as the detected colors. In this case, magenta, pink, and purple are assigned as they are the closest colors that fell within the defined upper and lower bounds. This process of color quantization helps to ensure that the detected colors are as accurate as possible, even if they are not defined in the color library.
-
+<img width="1440" alt="test3" src="https://github.com/hmothershed/HUiE/assets/112271331/ff1ededf-14de-4f2b-a33b-a414a8929318">
 
 ## References
