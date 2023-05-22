@@ -21,4 +21,5 @@ https://www.askpython.com/python/examples/color-detection
 https://www.youtube.com/watch?v=aFNDh5k3SjU
 https://www.geeksforgeeks.org/detect-the-rgb-color-from-a-webcam-using-python-opencv/
 https://pyimagesearch.com/2014/08/04/opencv-python-color-detection/
+
 https://www.youtube.com/watch?v=6Otgyyv--UU
