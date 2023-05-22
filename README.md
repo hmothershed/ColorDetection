@@ -15,3 +15,8 @@ The final test was conducted under room lighting conditions and involved the imp
 
 
 ## References
+[1] I. Bansal, “Color detection using Python - Beginner’s reference,” AskPython, https://www.askpython.com/python/examples/color-detection (accessed May 12, 2023).
+[2] Detecting Color with Python and OpenCV Using HSV Colorspace | Computer Vision Tutorial. YouTube, 2022.
+[3] “Detect the RGB color from a webcam using python - opencv,” GeeksforGeeks, https://www.geeksforgeeks.org/detect-the-rgb-color-from-a-webcam-using-python-opencv/ (accessed May 12, 2023).
+[4] A. Rosebrock, “OpenCV and python color detection,” PyImageSearch, https://pyimagesearch.com/2014/08/04/opencv-python-color-detection/ (accessed May 12, 2023).
+[5] Color Detection Using Python and OpenCV | Color Detection with Python. YouTube, 2021.
